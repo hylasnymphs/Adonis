@@ -2,7 +2,7 @@
 layout: post
 title: 青铜门没有开
 date: 2020-08-30
-author: 灭迹沦一尉
+author: 青冥客
 tags: [盗墓笔记]
 comments: true
 ---
