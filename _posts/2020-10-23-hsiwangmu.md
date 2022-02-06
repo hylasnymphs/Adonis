@@ -2,7 +2,7 @@
 layout: post
 title: 将子无死，尚能复来
 date: 2020-10-23
-author: 灭迹沦一尉
+author: 青冥客
 tags: [盗墓笔记]
 comments: true
 ---
